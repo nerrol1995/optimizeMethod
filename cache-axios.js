@@ -1,13 +1,10 @@
 /*
  * @Author: your name
  * @Date: 2020-03-24 17:12:55
- * @LastEditTime: 2020-03-25 11:06:29
+ * @LastEditTime: 2020-03-25 21:46:10
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /optimizeMethod/cache-axios.js
- */
-/* axios.create()：
- *  自定义实例默认值
  */
 
 /**
